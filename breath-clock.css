@@ -45,7 +45,9 @@ body {
   z-index: 0;
   align-self: center;
 }
-
+button{
+  box-shadow: 0px 0px 20px 15px rgb(17, 35, 55);
+}
 .circle {
   width: 14px;
   height: 14px;
